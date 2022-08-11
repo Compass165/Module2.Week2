@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="431fa749-fa73-4b8f-8a47-25aaa57e95ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../Access modifier, static method, static property/Homework/src/Circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Access modifier, static method, static property/Homework/src/Circle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Access modifier, static method, static property/Homework/src/Student/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Access modifier, static method, static property/Homework/src/Student/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/HomeWork/src/QuadraticEquation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/HomeWork/src/QuadraticEquation/QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/out/production/Practice/RectangleClass/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/out/production/Practice/RectangleClass/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/src/RectangleClass/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/src/RectangleClass/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ClassAndObj/Practice/src/RectangleClass/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/Practices/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/Practices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/Practices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/Practices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/Practices/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../New folder/Practices/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ObjAndClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ObjAndClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ObjAndClass/BuildFan/out/production/BuildFan/BuildFan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ObjAndClass/BuildFan/out/production/BuildFan/BuildFan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ObjAndClass/BuildFan/out/production/BuildFan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ObjAndClass/BuildFan/out/production/BuildFan/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ObjAndClass/BuildFan/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ObjAndClass/BuildFan/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ObjAndClass/Rectangle/src/QuadraticEquation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ObjAndClass/Rectangle/src/QuadraticEquation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../ObjAndClass/Rectangle/src/QuadraticEquation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../ObjAndClass/Rectangle/src/QuadraticEquation/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DAYnCpvve9r8Qib6dCb13YzEzQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="431fa749-fa73-4b8f-8a47-25aaa57e95ec" name="Changes" comment="" />
+      <created>1660143520587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660143520587</updated>
+      <workItem from="1660143521878" duration="160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
