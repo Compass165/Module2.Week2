@@ -1,2 +1,5 @@
-package colorable;public class Colorable {
+package colorable;
+
+public interface Colorable {
+    public abstract void howToColor();
 }

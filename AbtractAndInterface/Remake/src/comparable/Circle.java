@@ -1,7 +1,6 @@
-package colorable;
+package comparable;
 
 public class Circle extends Shape {
-
     private double radius = 1.0;
 
     public Circle() {
@@ -12,7 +11,7 @@ public class Circle extends Shape {
     }
 
     public Circle(double radius, String color, boolean filled) {
-        setShape(color, filled);
+        setShape(color,filled);
         this.radius = radius;
     }
 
@@ -39,9 +38,5 @@ public class Circle extends Shape {
                 + ", which is a subclass of "
                 + super.toString();
     }
-
-    @Override
-    public void howToColor() {
-        System.out.println("Hinh tron: to het vong tron");
-    }
+    public static void dost(){}
 }

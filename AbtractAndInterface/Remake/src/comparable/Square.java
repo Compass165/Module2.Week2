@@ -1,6 +1,6 @@
-package colorable;
+package comparable;
 
-public class Square extends Shape implements Colorable {
+public class Square extends Shape {
     private double side = 0;
 
     public Square() {
@@ -31,8 +31,5 @@ public class Square extends Shape implements Colorable {
                 + super.toString();
     }
 
-    @Override
-    public void howToColor() {
-        System.out.println("hình vuông: tô 4 cạnh");
-    }
+
 }

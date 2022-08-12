@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09a27e3e-a5a5-44b5-b86a-e4a02dc108a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/AbtractAndInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise/out/production/Excercise/colorable/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise/out/production/Excercise/colorable/Colorable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise/out/production/Excercise/colorable/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise/out/production/Excercise/colorable/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise/out/production/Excercise/colorable/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Excercise/out/production/Excercise/colorable/TestColorable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Remake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise/src/colorable/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercise/src/colorable/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise/src/colorable/Colorable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercise/src/colorable/Colorable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise/src/colorable/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercise/src/colorable/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise/src/colorable/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercise/src/colorable/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise/src/colorable/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercise/src/colorable/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Excercise/src/colorable/TestColorable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Excercise/src/colorable/TestColorable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/out/production/Practice/comparable/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/out/production/Practice/comparable/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/comparable/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/comparable/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/comparator/ComparableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/comparator/ComparableCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice/src/comparator/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice/src/comparator/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier, static method, static property/Homework/src/Circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/Homework/src/Circle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Access modifier, static method, static property/Homework/src/Student/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Access modifier, static method, static property/Homework/src/Student/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/HomeWork/src/QuadraticEquation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/HomeWork/src/QuadraticEquation/QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/out/production/Practice/RectangleClass/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/out/production/Practice/RectangleClass/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/src/RectangleClass/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/src/RectangleClass/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClassAndObj/Practice/src/RectangleClass/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Inheritstance/Practice/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Inheritstance/Practice/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/Practices/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/Practices/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/Practices/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/Practices/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/Practices/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../New folder/Practices/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ObjAndClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ObjAndClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ObjAndClass/BuildFan/out/production/BuildFan/BuildFan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ObjAndClass/BuildFan/out/production/BuildFan/BuildFan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ObjAndClass/BuildFan/out/production/BuildFan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../ObjAndClass/BuildFan/out/production/BuildFan/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ObjAndClass/BuildFan/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ObjAndClass/BuildFan/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ObjAndClass/Rectangle/src/QuadraticEquation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ObjAndClass/Rectangle/src/QuadraticEquation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ObjAndClass/Rectangle/src/QuadraticEquation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ObjAndClass/Rectangle/src/QuadraticEquation/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DEuMQ2bw63H5Bvregf04zcwjcN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ComparableCircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comparable.ComparableCircleTest" />
+      <module name="Remake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comparable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComparableCircleTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09a27e3e-a5a5-44b5-b86a-e4a02dc108a9" name="Changes" comment="" />
+      <created>1660276517930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660276517930</updated>
+      <workItem from="1660276519333" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
